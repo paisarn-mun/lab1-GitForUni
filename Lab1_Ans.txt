@@ -1,0 +1,15 @@
+1. HTTP
+2. 
+  GET time: 12:53:10.795300
+  OK time: 12:53:11.112403
+  Time Duration: 0.317103 Seconds
+3. 
+  Internet Address of gaia.cs.umass.edu: 192.168.72.167
+  Internet Address of computer: 128.119.245.12
+4. Mozilla Firefox
+5. 
+  Source Port: 50168
+  Destination Port: 80
+6. 
+  GET.pdf
+  OK.pdf
